@@ -15,14 +15,14 @@ Sitio web y registro de equipos, construidos para la comunidad de robótica educ
 
 ---
 
-## 🤖 Qué construimos
+## Qué construimos
 
 | | |
 | --- | --- |
-| 🌐 **Sitio web** | Información de la competencia, categorías, reglas y recursos para equipos y familias. |
-| 📝 **Registro de equipos** | Cuentas de entrenadores, equipos, participantes y documentos, con seguimiento de inscripciones. |
+| **Sitio web** | Información de la competencia, categorías, reglas y recursos para equipos y familias. |
+| **Registro de equipos** | Cuentas de entrenadores, equipos, participantes y documentos, con seguimiento de inscripciones. |
 
-## 📍 Dónde encontrarnos
+## Dónde encontrarnos
 
 - Competencia y registro: [wromexico.org](https://wromexico.org)
 
